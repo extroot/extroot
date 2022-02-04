@@ -43,3 +43,5 @@
 ### Support:
 <p><a href="https://www.buymeacoffee.com/extroot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="extroot" /></a></p><br><br>
 
+### 😉 Here's some humor for you:
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
