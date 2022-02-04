@@ -21,7 +21,7 @@
 <a href="https://twitter.com/extroot_meh" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="extroot_meh" /></a>
 <a href="https://www.hackerrank.com/extroot" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="extroot"/></a>
 <a href="https://www.leetcode.com/extroot" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="extroot"/></a>
-<a href="https://discord.gg/Extroot#9155" target="blank"><img align="center" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Extroot#9155"/></a>
+<a href="https://discordapp.com/users/Extroot#9155" target="blank"><img align="center" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Extroot#9155"/></a>
 <a href="https://www.reddit.com/user/extroot" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 <a href="https://t.me/extroot" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
