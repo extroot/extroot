@@ -31,7 +31,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### Statistic
+### Statistics
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extroot&theme=dark&layout=compact&card_width=445)](https://github.com/extroot/)
 
 [![Extroot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=extroot&theme=dark&langs_count=5)](https://github.com/extroot/)
